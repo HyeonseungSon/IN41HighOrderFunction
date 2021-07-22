@@ -2,6 +2,7 @@
 High Order Function
  - 매개변수를 함수나 Lambda 로 받거나
   반환값을 함수 또는 Lambda 로 돌려주는 함수
+ - 매개변수로 함수를 받거나 반환 Type 이 함수인 함수를 의미합니다.
  */
 fun main() {
 
